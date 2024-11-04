@@ -33,7 +33,7 @@ I'm an IT student at KSU and a trainee at the Apple Developer Academy with a pas
 ### 📫 Connect with Me
 - **Email:** [haya.aalbaker@gmail.com](mailto:haya.aalbaker@gmail.com)
 - **LinkedIn:** [Haya AlBaker](https://linkedin.com/in/hayaalbaker)
-- **Twitter:** [@hayaalbaker](https://twitter.com/hayaalbaker)
+- **Twitter:** [@hayaalbaker](https://twitter.com/hayaaalbaker)
 
 
 ---
