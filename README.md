@@ -36,7 +36,7 @@ I'm an IT student at KSU with a passion for app development, AI, and user experi
 
 Thanks for stopping by! If you’re interested in collaborating or sharing insights on app development, design, or AI, feel free to reach out!
 
-https://profile-counter.glitch.me/Hayaalbaker/count.svg?bg=ff0000&color=ffffff
+![](https://hit.yhype.me/github/profile?user_id=144670605)
 
 <!--
 **Hayaalbaker/Hayaalbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
