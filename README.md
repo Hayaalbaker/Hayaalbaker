@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Haya!
 
-I'm an IT student at KSU with a passion for app development, AI, and user experience design. I love bringing ideas to life through coding, and I'm currently diving deeper into **Swift** and **mobile app development**. My goal is to create apps and websites that combine functionality with aesthetics, making technology both useful and enjoyable.
+I'm an IT student at KSU and a trainee at the Apple Developer Academy with a passion for app development, AI, and user experience design. I love bringing ideas to life through coding, and I'm currently diving deeper into **Swift** and **mobile app development**. My goal is to create apps and websites that combine functionality with aesthetics, making technology both useful and enjoyable.
 
 ---
 
 ### 🌟 About Me
 - 💼 IT Student at **King Saud University**
+- 🍎 Trainee at **Apple Developer Academy**
 - 💡 Enthusiastic about **app development**, **AI**, and **UX/UI design**
 - 🌱 Currently expanding my skills in **Swift** and iOS development
 - 🎨 Passionate about creating visually appealing, user-friendly apps
