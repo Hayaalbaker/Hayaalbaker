@@ -30,7 +30,7 @@ I'm an IT student at KSU with a passion for app development, AI, and user experi
 ### 📫 Connect with Me
 - 📧 haya.aalbaker@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/hayaalbaker)
-- 🐦 [Twitter](https://twitter.com/hayaalbaker)
+- 🐦 [X](https://twitter.com/hayaalbaker)
 
 ---
 
