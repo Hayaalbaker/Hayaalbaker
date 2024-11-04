@@ -18,6 +18,8 @@ I'm an IT student at KSU with a passion for app development, AI, and user experi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayaalbaker&layout=compact&hide=html)
+
 ---
 
 ### 🌱 Currently Learning
@@ -36,8 +38,7 @@ I'm an IT student at KSU with a passion for app development, AI, and user experi
 
 Thanks for stopping by! If you’re interested in collaborating or sharing insights on app development, design, or AI, feel free to reach out!
 
-![](https://hit.yhype.me/github/profile?user_id=144670605)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hayaalbaker.profile)
 <!--
 **Hayaalbaker/Hayaalbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
